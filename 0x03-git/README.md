@@ -1,1 +1,1 @@
-1. Repo session
+1. Repo session creating a new directory
